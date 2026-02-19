@@ -1,7 +1,8 @@
-# 👋 ¡Bienvenidos usuarios a mi proyecto! conversor de temperatura
+## 👋 ¡Bienvenidos usuarios a mi proyecto! conversor de temperatura
 
 <img src="imagen_presentacion.png" alt="Presentación" width="205" align="left" style="margin-right:20px; border-radius:5px;">  
 <p style="text-align: justify;">
+
 Este proyecto consiste en el desarrollo de un **conversor de temperatura en consola** utilizando Python. El programa permite convertir valores de **grados Celsius a Fahrenheit** y de **grados Fahrenheit a Celsius**, según la opción seleccionada por el usuario mediante un menú interactivo.
 
 La aplicación solicita la temperatura por teclado, aplica la fórmula matemática correspondiente y muestra el resultado en pantalla de forma clara. Además, se implementan validaciones básicas para controlar opciones incorrectas y asegurar un correcto funcionamiento.
